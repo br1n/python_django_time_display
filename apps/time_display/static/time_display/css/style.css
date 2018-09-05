@@ -1,0 +1,21 @@
+
+.title {
+	border: 1px solid black;
+	display: table;
+    margin: 0 auto;
+    width: 250px;
+}
+
+.title h6 {
+	display: table-cell;
+	vertical-align: middle;
+    text-align: center;
+}
+
+.time {
+	width: 350px;
+	border: 1px solid black;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1rem;
+}
